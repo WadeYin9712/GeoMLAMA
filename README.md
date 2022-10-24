@@ -17,9 +17,12 @@ We just need a single command to start the evaluation!
 ```
 python test_mlm_w_mask.py -lang [LANG] -mname [MODEL NAME] -country_or_not [COUNTRY_OR_NOT]
 ```
-`[LANG]` is the tested language. `[MODEL NAME]' is the tested mPLM. `[COUNTRY_OR_NOT]` is whether you want to add country information in the prompts or not. If you don't add country information, the code will be used to study the intrinsic bias of mPLMs without prior information of any country.
 
-`[LANG]` can be one of `en` (English), `zh` (Chinese), `hi` (Hindi), `fa` (Persian), and `sw` (Swahili). [MODEL NAME] can be any model name noted in `test_mlm_w_mask.py`. [COUNTRY_OR_NOT] can be either `yes` or `no`.
+`[LANG]` is the tested language. It can be one of `en` (English), `zh` (Chinese), `hi` (Hindi), `fa` (Persian), and `sw` (Swahili).
+
+`[MODEL NAME]` is the tested mPLM. It can be any model name noted in `test_mlm_w_mask.py`.
+
+`[COUNTRY_OR_NOT]` is whether you want to add country information in the prompts or not. If you don't add country information, the code will be used to study the intrinsic bias of mPLMs without prior information of any country. It can be either `yes` or `no`.
 
 ## Acknowledgement
 We thank for implementation of Huggingface Transformers.
