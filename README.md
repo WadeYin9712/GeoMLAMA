@@ -12,7 +12,7 @@ Code for [*GeoMLAMA: Geo-Diverse Commonsense Probing on Multilingual Pre-Trained
 
 GeoMLAMA is a very easy-to-use benchmark and code to do the aforementioned analysis.
 
-## Data
+## GeoMLAMA Data
 All the files with ".tsv" contain prompts in GeoMLAMA. The files with "_aug.tsv" store the prompts that are translated and paraphrased for obtain more robust results.
 
 ## Commands
