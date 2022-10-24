@@ -1,0 +1,150 @@
+Prompt	Corresponding Questions	Ans	Candidate Ans	Context	GPT-3 Pred	GPT-3 Pred (T/F/I)	comments
+Watu hukaa upande wa <mask> wanapoendesha magari nchini Marekani.	Watu hukaa upande gani wanapoendesha gari nchini Marekani?	kulia	kulia, kushoto, katikati, popote	keep left/right			
+Watu hukaa upande wa <mask> wanapoendesha magari nchini China.	Watu hukaa upande gani wanapoendesha gari nchini China?	kulia	kulia, kushoto, katikati, popote	keep left/right			
+Watu hukaa upande wa <mask> wanapoendesha magari nchini India.	Watu hukaa upande gani wanapoendesha gari nchini India?	kushoto	kulia, kushoto, katikati, popote	keep left/right			
+Watu hukaa upande wa <mask> wanapoendesha magari nchini Uajemi.	Watu hukaa upande gani wanapoendesha gari nchini Uajemi?	kulia	kulia, kushoto, katikati, popote	keep left/right			
+Watu hukaa upande wa <mask> wanapoendesha magari nchini Kenya.	Watu hukaa upande gani wanapoendesha gari nchini Kenya?	kushoto	kulia, kushoto, katikati, popote	keep left/right			
+							
+Kiti cha dereva huwa upande wa <mask> wa gari nchini Marekani.	Kiti cha dereva huwa upande gani wa gari nchini Marekani?	kushoto	kulia, kushoto, mbele, nyuma	driver seat			
+Kiti cha dereva huwa upande wa <mask> wa gari nchini China.	Kiti cha dereva huwa upande gani wa gari nchini China?	kushoto	kulia, kushoto, mbele, nyuma	driver seat			
+Kiti cha dereva huwa upande wa <mask> wa gari nchini India.	Kiti cha dereva huwa upande gani wa gari nchini India?	kulia	kulia, kushoto, mbele, nyuma	driver seat			
+Kiti cha dereva huwa upande wa <mask> wa gari nchini Uajemi.	Kiti cha dereva huwa upande gani wa gari nchini Uajemi?	kushoto	kulia, kushoto, mbele, nyuma	driver seat			
+Kiti cha dereva huwa upande wa <mask> wa gari nchini Kenya.	Kiti cha dereva huwa upande gani wa gari nchini Kenya?	kulia	kulia, kushoto, mbele, nyuma	driver seat			
+							
+Kitengo cha kupima urefu ni <mask> nchini Marekani.	Kitengo kipi hutumika kupima urefu nchini Marekani?	fiti, inchi	fiti, inchi, yadi, maili, milimita, sentimita, mita, kilomita	measurement unit			
+Kitengo cha kupima urefu ni <mask> nchini China.	Kitengo kipi hutumika kupima urefu nchini China?	mita, sentimita	fiti, inchi, yadi, maili, milimita, sentimita, mita, kilomita	measurement unit			
+Kitengo cha kupima urefu ni <mask> nchini India.	Kitengo kipi hutumika kupima urefu nchini India?	fiti, inchi, mita, sentimita	fiti, inchi, yadi, maili, milimita, sentimita, mita, kilomita	measurement unit			
+Kitengo cha kupima urefu ni <mask> nchini Uajemi.	Kitengo kipi hutumika kupima urefu nchini Uajemi?	mita, sentimita	fiti, inchi, yadi, maili, milimita, sentimita, mita, kilomita	measurement unit			
+Kitengo cha kupima urefu ni <mask> nchini Kenya.	Kitengo kipi hutumika kupima urefu nchini Kenya?	fiti, inchi, mita, sentimita	fiti, inchi, yadi, maili, milimita, sentimita, mita, kilomita	measurement unit			
+							
+Kitengo cha kupima uzito ni <mask> nchini Marekani.	Kitengo kipi hupima uzito nchini Marekani?	pauni	wanzi, pauni, miligramuuu, gramu, kilogramu	measurement unit			
+Kitengo cha kupima uzito ni <mask> nchini China.	Kitengo kipi hupima uzito nchini China?	kilogramu	wanzi, pauni, miligramuuu, gramu, kilogramu	measurement unit			
+Kitengo cha kupima uzito ni <mask> nchini India.	Kitengo kipi hupima uzito nchini India?	kilogramu	wanzi, pauni, miligramuuu, gramu, kilogramu	measurement unit			
+Kitengo cha kupima uzito ni <mask> nchini Uajemi.	Kitengo kipi hupima uzito nchini Uajemi?	kilogramu	wanzi, pauni, miligramuuu, gramu, kilogramu	measurement unit			
+Kitengo cha kupima uzito ni <mask> nchini Kenya.	Kitengo kipi hupima uzito nchini Kenya?	kilogramu	wanzi, pauni, miligramuuu, gramu, kilogramu	measurement unit			
+							
+Kitengo cha kupima joto ni <mask> nchini Marekani.	Kitengo kipi hutumika kupima joto nchini Marekani?	Fahrenheit	Fahrenheit, Celsius, Rankine	measurement unit			
+Kitengo cha kupima joto ni <mask> nchini China.	Kitengo kipi hutumika kupima joto nchini China?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit			
+Kitengo cha kupima joto ni <mask> nchini India.	Kitengo kipi hutumika kupima joto nchini India?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit			
+Kitengo cha kupima joto ni <mask> nchini Uajemi.	Kitengo kipi hutumika kupima joto nchini Uajemi?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit			
+Kitengo cha kupima joto ni <mask> nchini Kenya.	Kitengo kipi hutumika kupima joto nchini Kenya?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit			
+							
+Nchini Marekani, mwezi huja <mask> mwaka kwenye muundo wa tarehe.	Nchini marekani, Mwezi huja kabla ama baada ya Mwaka kwenye muundo wa tarehe?	kabla	kabla, baada, chini, juu	date format			
+Nchini China, mwezi huja <mask> mwaka kwenye muundo wa tarehe.	Nchini China, Mwezi huja kabla ama baada ya Mwaka kwenye muundo wa tarehe?	baada	kabla, baada, chini, juu	date format			
+Nchini India, mwezi huja <mask> mwaka kwenye muundo wa tarehe.	Nchini India, Mwezi huja kabla ama baada ya Mwaka kwenye muundo wa tarehe?	kabla	kabla, baada, chini, juu	date format			
+Nchini Uajemi, mwezi huja <mask> mwaka kwenye muundo wa tarehe.	Nchini Uajemi, Mwezi huja kabla ama baada ya Mwaka kwenye muundo wa tarehe?	kabla	kabla, baada, chini, juu	date format			
+Nchini Kenya, mwezi huja <mask> mwaka kwenye muundo wa tarehe.	Nchini Kenya, Mwezi huja kabla ama baada ya Mwaka kwenye muundo wa tarehe?	kabla	kabla, baada, chini, juu	date format			
+							
+Nchini Marekani, mwaka huja <mask> mwezi kwenye muundo wa tarehe.	Nchini marekani, Mwaka huja kabla ama baada ya Mwezi kwenye muundo wa tarehe?	baada	kabla, baada, chini, juu	date format			
+Nchini China, mwaka huja <mask> mwezi kwenye muundo wa tarehe.	Nchini China, Mwaka huja kabla ama baada ya Mwezi kwenye muundo wa tarehe?	kabla	kabla, baada, chini, juu	date format			
+Nchini India, mwaka huja <mask> mwezi kwenye muundo wa tarehe.	Nchini India, Mwaka huja kabla ama baada ya Mwezi kwenye muundo wa tarehe?	baada	kabla, baada, chini, juu	date format			
+Nchini Uajemi, mwaka huja <mask> mwezi kwenye muundo wa tarehe.	Nchini Uajemi, Mwaka huja kabla ama baada ya Mwezi kwenye muundo wa tarehe?	baada	kabla, baada, chini, juu	date format			
+Nchini Kenya, mwaka huja <mask> mwezi kwenye muundo wa tarehe.	Nchini Kenya, Mwaka huja kabla ama baada ya Mwezi kwenye muundo wa tarehe?	baada	kabla, baada, chini, juu	date format			
+							
+Nchini Marekani, ni <mask> kwa wateja kutoa bakshishi baada ya maankuli?	Nchini Marekani, ni kawaida au nadra kwa wateja kutoa bakshishi baada ya maankuli?	kawaida	nadra, kawaida	payment			
+Nchini China, ni <mask> kwa wateja kutoa bakshishi baada ya maankuli?	Nchini China, ni kawaida au nadra kwa wateja kutoa bakshishi baada ya maankuli?	nadra	nadra, kawaida	payment			
+Nchini India, ni <mask> kwa wateja kutoa bakshishi baada ya maankuli?	Nchini India, ni kawaida au nadra kwa wateja kutoa bakshishi baada ya maankuli?	nadra	nadra, kawaida	payment			
+Nchini Uajemi, ni <mask> kwa wateja kutoa bakshishi baada ya maankuli?	Nchini Uajemi, ni kawaida au nadra kwa wateja kutoa bakshishi baada ya maankuli?	nadra	nadra, kawaida	payment			
+Nchini Kenya, ni <mask> kwa wateja kutoa bakshishi baada ya maankuli?	Nchini Kenya, ni kawaida au nadra kwa wateja kutoa bakshishi baada ya maankuli?	nadra	nadra, kawaida	payment			
+							
+Wamarekani kwa kawaida huoga wakati wa <mask>.	Ni wakati gani wa siku ambapo wamarekani kwa kawaida huoga?	asubuhi	asubuhi, adhuhuri, mchana, jioni	shower time			
+Wachina kwa kawaida huoga wakati wa <mask>.	Ni wakati gani wa siku ambapo Wachina kwa kawaida huoga?	jioni	asubuhi, adhuhuri, mchana, jioni	shower time			
+Wahindi kwa kawaida huoga wakati wa <mask>.	Ni wakati gani wa siku ambapo Wahindi kwa kawaida huoga?	asubuhi	asubuhi, adhuhuri, mchana, jioni	shower time			
+Waajemi kwa kawaida huoga wakati wa <mask>.	Ni wakati gani wa siku ambapo Waajemi kwa kawaida huoga?	asubuhi	asubuhi, adhuhuri, mchana, jioni	shower time			
+Wakenya kwa kawaida huoga wakati wa <mask>.	Ni wakati gani wa siku ambapo wakenya kwa kawaida huoga?	asubuhi	asubuhi, adhuhuri, mchana, jioni	shower time			
+							
+Wamarekani hukausha nguo zao kutumia <mask>.	Wamarekani hukausha nguo zao kutumia nini?	mashine	mashine, jua	drying clothes			
+Wachina hukausha nguo zao kutumia <mask>.	Wachina hukausha nguo zao kutumia nini?	jua	mashine, jua	drying clothes			
+Wahindi hukausha nguo zao kutumia <mask>.	Wahindi hukausha nguo zao kutumia nini?	jua	mashine, jua	drying clothes			
+Waajemi hukausha nguo zao kutumia <mask>.	Waajemi hukausha nguo zao kutumia nini?	jua	mashine, jua	drying clothes			
+Wakenya hukausha nguo zao kutumia <mask>.	Wakenya hukausha nguo zao kutumia nini?	jua	mashine, jua	drying clothes			
+							
+Nchini Marekani ni <mask> kwa watu kutumia ufagio kusafisha sakafu.	Ni nadra au kawaida kwa watu kutumia ufagio kusafisha sakafu nchini Marekani?	kawaida	nadra, kawaida	broom usage			
+Nchini China ni <mask> kwa watu kutumia ufagio kusafisha sakafu.	Ni nadra au kawaida kwa watu kutumia ufagio kusafisha sakafu nchini China?	kawaida	nadra, kawaida	broom usage			
+Nchini India ni <mask> kwa watu kutumia ufagio kusafisha sakafu.	Ni nadra au kawaida kwa watu kutumia ufagio kusafisha sakafu nchini India?	kawaida	nadra, kawaida	broom usage			
+Nchini Uajemi ni <mask> kwa watu kutumia ufagio kusafisha sakafu.	Ni nadra au kawaida kwa watu kutumia ufagio kusafisha sakafu nchini Uajemi?	nadra	nadra, kawaida	broom usage			
+Nchini Kenya ni <mask> kwa watu kutumia ufagio kusafisha sakafu.	Ni nadra au kawaida kwa watu kutumia ufagio kusafisha sakafu nchini Kenya?	kawaida	nadra, kawaida	broom usage			
+							
+Chakula kikuu nchini Marekani ni <mask>.	Chakula kikuu nchini Marekani ni kipi?	mkate	mkate, wali, tambi, viazi, nyama, mboga, tunda, mahindi	food and drink			
+Chakula kikuu nchini China ni <mask>.	Chakula kikuu nchini China ni kipi?	wali, tambi	mkate, wali, tambi, viazi, nyama, mboga, tunda, mahindi	food and drink			
+Chakula kikuu nchini Inida ni <mask>.	Chakula kikuu nchini India ni kipi?	wali, mkate	mkate, wali, tambi, viazi, nyama, mboga, tunda, mahindi	food and drink			
+Chakula kikuu nchini Uajemi ni <mask>.	Chakula kikuu nchini Uajemi ni kipi?	wali, mkate	mkate, wali, tambi, viazi, nyama, mboga, tunda, mahindi	food and drink			
+Chakula kikuu nchini Kenya ni <mask>.	Chakula kikuu nchini Kenya ni kipi?	mboga, mahindi	mkate, wali, tambi, viazi, nyama, mboga, tunda, mahindi	food and drink			
+							
+Wamarekani hulia vyakula kutumia  <mask>.	Wamarekani hutumia vyombo zipi kulia vyakula?	kisu, uma	kisu, uma, kijiko, mkono, vijiti	food and drink			
+Wachina hulia vyakula kutumia  <mask>.	Wachina hutumia vyombo zipi kulia vyakula?	vijiti	kisu, uma, kijiko, mkono, vijiti	food and drink			
+Wahindi hulia vyakula kutumia  <mask>.	Wahindi hutumia vyombo zipi kulia vyakula?	kijiko, mkono	kisu, uma, kijiko, mkono, vijiti	food and drink			
+Waajemi hulia vyakula kutumia  <mask>.	Waajemi hutumia vyombo zipi kulia vyakula?	kijiko, uma	kisu, uma, kijiko, mkono, vijiti	food and drink			
+Wakenya hulia vyakula kutumia  <mask>.	Wakenya hutumia vyombo zipi kulia vyakula?	kijiko, uma	kisu, uma, kijiko, mkono, vijiti	food and drink			
+							
+Wamarekani ni <mask> kugawana chakula wanapokula nje.	Je ni nadra au kawaida kwa watu kugawana vyakula wanapokula nje nchini Marekani?	nadra	nadra, kawaida	food and drink			
+Wachina ni <mask> kugawana chakula wanapokula nje.	Je ni nadra au kawaida kwa watu kugawana vyakula wanapokula nje nchini China?	kawaida	nadra, kawaida	food and drink			
+Wahindi ni <mask> kugawana chakula wanapokula nje.	Je ni nadra au kawaida kwa watu kugawana vyakula wanapokula nje nchini India?	kawaida	nadra, kawaida	food and drink			
+Waajemi ni <mask> kugawana chakula wanapokula nje.	Je ni nadra au kawaida kwa watu kugawana vyakula wanapokula nje nchini Uajemi?	nadra	nadra, kawaida	food and drink			
+Wakenya ni <mask> kugawana chakula wanapokula nje.	Je ni nadra au kawaida kwa watu kugawana vyakula wanapokula nje nchini Kenya?	nadra	nadra, kawaida	food and drink			
+							
+Nchini Marekani, ni <mask> kuwaona watu wakinyua maji moto.	Nchini Marekani, ni nadra au kawaida kuwaona watu wakinywa maji moto?	nadra	nadra, kawaida	food and drink			
+Nchini China, ni <mask> kuwaona watu wakinyua maji moto.	Nchini China, ni nadra au kawaida kuwaona watu wakinywa maji moto?	kawaida	nadra, kawaida	food and drink			
+Nchini India, ni <mask> kuwaona watu wakinyua maji moto.	Nchini India, ni nadra au kawaida kuwaona watu wakinywa maji moto?	nadra	nadra, kawaida	food and drink			
+Nchini Uajemi, ni <mask> kuwaona watu wakinyua maji moto.	Nchini Uajemi, ni nadra au kawaida kuwaona watu wakinywa maji moto?	nadra	nadra, kawaida	food and drink			
+Nchini Kenya, ni <mask> kuwaona watu wakinyua maji moto.	Nchini Kenya, ni nadra au kawaida kuwaona watu wakinywa maji moto?	nadra	nadra, kawaida	food and drink			
+							
+Nchini Marekani, ni <mask> kwa watu wazima kuishi na wazazi wao.	Je, ni nadra au kawaida kwa watu wazima kuishi na wazazi wao nchini Marekani?	nadra	nadra, kawaida	family			
+Nchini China, ni <mask> kwa watu wazima kuishi na wazazi wao.	Je, ni nadra au kawaida kwa watu wazima kuishi na wazazi wao nchini China?	kawaida	nadra, kawaida	family			
+Nchini India, ni <mask> kwa watu wazima kuishi na wazazi wao.	Je, ni nadra au kawaida kwa watu wazima kuishi na wazazi wao nchini India?	kawaida	nadra, kawaida	family			
+Nchini Uajemi, ni <mask> kwa watu wazima kuishi na wazazi wao.	Je, ni nadra au kawaida kwa watu wazima kuishi na wazazi wao nchini Uajemi?	nadra	nadra, kawaida	family			
+Nchini Kenya, ni <mask> kwa watu wazima kuishi na wazazi wao.	Je, ni nadra au kawaida kwa watu wazima kuishi na wazazi wao nchini Kenya?	nadra	nadra, kawaida	family			
+							
+Mchezo maarufu nchini Marekani ni <mask>.	Ni michezo ipi maarufu nchini marekani?	mpira wa miguu, mpira wa kikapu, besiboli	mpira wa miguu, mpira wa kikapu, besiboli, tenisi ya meza, mpira wa Vinyoya, soka, Voliboli, Kriketi, riadha	sports			
+Mchezo maarufu nchini China ni <mask>.	Ni michezo ipi maarufu nchini China?	tenisi ya meza, mpira wa Vinyoya	mpira wa miguu, mpira wa kikapu, besiboli, tenisi ya meza, mpira wa Vinyoya, soka, Voliboli, Kriketi, riadha	sports			
+Mchezo maarufu nchini India ni <mask>.	Ni michezo ipi maarufu nchini India?	Kriketi, mpira wa Vinyoya, soka	mpira wa miguu, mpira wa kikapu, besiboli, tenisi ya meza, mpira wa Vinyoya, soka, Voliboli, Kriketi, riadha	sports			
+Mchezo maarufu nchini Uajemi ni <mask>.	Ni michezo ipi maarufu nchini Uajemi?	soka, Voliboli	mpira wa miguu, mpira wa kikapu, besiboli, tenisi ya meza, mpira wa Vinyoya, soka, Voliboli, Kriketi, riadha	sports			
+Mchezo maarufu nchini Kenya ni <mask>.	Ni michezo ipi maarufu nchini Kenya?	soka, riadha	mpira wa miguu, mpira wa kikapu, besiboli, tenisi ya meza, mpira wa Vinyoya, soka, Voliboli, Kriketi, riadha	sports			
+							
+Nchini Marekani, zana za kusafiri maarufu kwenye miji mikuu miaka thelathini iliyopita ni <mask>.	Ni zana zipi za kusafiri maarufu kwenye miji mikuu nchini Marekani?	gari	gari, basi, gari ya moshi, metro, baiskeli, ndege, meli, mashua	transportation			
+Nchini China, zana za kusafiri maarufu kwenye miji mikuu miaka thelathini iliyopita ni <mask>.	Ni zana zipi za kusafiri maarufu kwenye miji mikuu nchini Uchina?	baiskeli	gari, basi, gari ya moshi, metro, baiskeli, ndege, meli, mashua	transportation			
+Nchini India, zana za kusafiri maarufu kwenye miji mikuu miaka thelathini iliyopita ni <mask>.	Ni zana zipi za kusafiri maarufu kwenye miji mikuu nchini India?	basi, gari ya moshi	gari, basi, gari ya moshi, metro, baiskeli, ndege, meli, mashua	transportation			
+Nchini Uajemi, zana za kusafiri maarufu kwenye miji mikuu miaka thelathini iliyopita ni <mask>.	Ni zana zipi za kusafiri maarufu kwenye miji mikuu nchini Uajemi?	gari	gari, basi, gari ya moshi, metro, baiskeli, ndege, meli, mashua	transportation			
+Nchini Kenya, zana za kusafiri maarufu kwenye miji mikuu miaka thelathini iliyopita ni <mask>.	Ni zana zipi za kusafiri maarufu kwenye miji mikuu nchini Kenya?	gari, basi	gari, basi, gari ya moshi, metro, baiskeli, ndege, meli, mashua	transportation			
+							
+Ni <mask> kuwa na wafanyikazi manyumbani nchini Marekani.	Ni nadra au kawaida kuwa na wafanyikazi manyumbani nchini Marekani?	nadra	kawaida, nadra	servant			
+Ni <mask> kuwa na wafanyikazi manyumbani nchini China.	Ni nadra au kawaida kuwa na wafanyikazi manyumbani nchini China?	nadra	kawaida, nadra	servant			
+Ni <mask> kuwa na wafanyikazi manyumbani nchini India.	Ni nadra au kawaida kuwa na wafanyikazi manyumbani nchini India?	kawaida	kawaida, nadra	servant			
+Ni <mask> kuwa na wafanyikazi manyumbani nchini Uajemi.	Ni nadra au kawaida kuwa na wafanyikazi manyumbani nchini Uajemi?	nadra	kawaida, nadra	servant			
+Ni <mask> kuwa na wafanyikazi manyumbani nchini Kenya.	Ni nadra au kawaida kuwa na wafanyikazi manyumbani nchini Kenya?	nadra	kawaida, nadra	servant			
+							
+Sehemu kubwa ya Marekani ipo katika eneo la <mask> ya hali.	Marekani ipo katika eneo gani la hali?	nusutropiki	kitropiki, nusutropiki, ukavu, bara, polar	climate			
+Sehemu kubwa ya China ipo katika eneo la <mask> ya hali.	China ipo katika eneo gani la hali?	nusutropiki	kitropiki, nusutropiki, ukavu, bara, polar	climate			
+Sehemu kubwa ya India ipo katika eneo la <mask> ya hali.	India ipo katika eneo gani la hali?	kitropiki	kitropiki, nusutropiki, ukavu, bara, polar	climate			
+Sehemu kubwa ya Uajemi ipo katika eneo la <mask> ya hali.	Uajemi ipo katika eneo gani la hali?	nusutropiki	kitropiki, nusutropiki, ukavu, bara, polar	climate			
+Sehemu kubwa ya Kenya ipo katika eneo la <mask> ya hali.	Kenya ipo katika eneo gani la hali?	kitropiki	kitropiki, nusutropiki, ukavu, bara, polar	climate			
+							
+Upandaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Marekani.	Rangi ipi inawakilisha kupanda kwa bei ya hisa nchini Marekani?	kijani	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Upandaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini China.	Rangi ipi inawakilisha kupanda kwa bei ya hisa nchini China?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Upandaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini India.	Rangi ipi inawakilisha kupanda kwa bei ya hisa nchini India?	kijani	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Upandaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Uajemi.	Rangi ipi inawakilisha kupanda kwa bei ya hisa nchini Uajemi?	kijani	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Upandaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Kenya.	Rangi ipi inawakilisha kupanda kwa bei ya hisa nchini Kenya?	kijani	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+							
+Ushukaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Marekani.	Rangi ipi inawakilisha kushuka kwa bei ya hisa nchini Marekani?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Ushukaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini China.	Rangi ipi inawakilisha kushuka kwa bei ya hisa nchini China?	kijani	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Ushukaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini India.	Rangi ipi inawakilisha kushuka kwa bei ya hisa nchini India?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Ushukaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Uajemi.	Rangi ipi inawakilisha kushuka kwa bei ya hisa nchini uajemi?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+Ushukaji wa bei ya hisa huwakilishwa na rangi ya <mask> nchini Kenya.	Rangi ipi inawakilisha kushuka kwa bei ya hisa nchini Kenya?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	stock price			
+							
+Kwenye harusi za kitamaduni nchini Marekani, rangi ya mavazi ya bibi harusi huwa <mask>.	Rangi ya mavazi ya bibi harusi huwa ipi katika ndoa ya Kimarekani?	nyeupe	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	wedding			
+Kwenye harusi za kitamaduni nchini China, rangi ya mavazi ya bibi harusi huwa <mask>.	Rangi ya mavazi ya bibi harusi huwa ipi katika ndoa ya Kichina?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	wedding			
+Kwenye harusi za kitamaduni nchini India, rangi ya mavazi ya bibi harusi huwa <mask>.	Rangi ya mavazi ya bibi harusi huwa ipi katika ndoa ya Kihindi?	nyekundu	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	wedding			
+Kwenye harusi za kitamaduni nchini Uajemi, rangi ya mavazi ya bibi harusi huwa <mask>.	Rangi ya mavazi ya bibi harusi huwa ipi katika ndoa ya Kiajemi?	nyeupe	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	wedding			
+Kwenye harusi za kitamaduni nchini Kenya, rangi ya mavazi ya bibi harusi huwa <mask>.	Rangi ya mavazi ya bibi harusi huwa ipi katika ndoa ya Kikenya?	nyeupe	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	wedding			
+							
+Kwenye Mazishi za kitamaduni nchini Marekani, rangi ya mavazi ya watu huwa <mask>.	Wamarekani huvaa mavazi ya rangi gani kwenye mazishi ya kitamaduni?	nyeusi	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	funeral			
+Kwenye Mazishi za kitamaduni nchini China, rangi ya mavazi ya watu huwa <mask>.	Wachina huvaa mavazi ya rangi gani kwenye mazishi ya kitamaduni?	nyeupe	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	funeral			
+Kwenye Mazishi za kitamaduni nchini India, rangi ya mavazi ya watu huwa <mask>.	Wahindi huvaa mavazi ya rangi gani kwenye mazishi ya kitamaduni?	nyeupe	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	funeral			
+Kwenye Mazishi za kitamaduni nchini Uajemi, rangi ya mavazi ya watu huwa <mask>.	Waajemi huvaa mavazi ya rangi gani kwenye mazishi ya kitamaduni?	nyeusi	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	funeral			
+Kwenye Mazishi za kitamaduni nchini Kenya, rangi ya mavazi ya watu huwa <mask>.	Wakenya huvaa mavazi ya rangi gani kwenye mazishi ya kitamaduni?	nyeusi	nyekundu, manjano, samawati, rangi chungwa, kijani, urujuani, nyeusi, nyeupe	funeral			
+							
+Nchini Marekani, harusi huchukua <mask> ya siku moja.	Je sherehe za harusi nchini Marekani huzidisha siku moja?	chili	chili, zaidi	wedding			
+Nchini China, harusi huchukua <mask> ya siku moja.	Je sherehe za harusi nchini China huzidisha siku moja?	chili	chili, zaidi	wedding			
+Nchini India, harusi huchukua <mask> ya siku moja.	Je sherehe za harusi nchini India huzidisha siku moja?	zaidi	chili, zaidi	wedding			
+Nchini Uajemi, harusi huchukua <mask> ya siku moja.	Je sherehe za harusi nchini Uajemi huzidisha siku moja?	chili	chili, zaidi	wedding			
+Nchini Kenya, harusi huchukua <mask> ya siku moja.	Je sherehe za harusi nchini Kenya huzidisha siku moja?	chili	chili, zaidi	wedding			

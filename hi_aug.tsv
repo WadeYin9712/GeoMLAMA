@@ -1,0 +1,101 @@
+English Prompts	Hindi Prompts	Hindi Prompts with Mask	Options
+Normally when driving in China, people stick to the right hand side.	आम तौर पर चीन में ड्राइविंग करते समय लोग दायें हाथ की तरफ चिपके रहते हैं।	आम तौर पर चीन में ड्राइविंग करते समय लोग <mask> हाथ की तरफ चिपके रहते हैं।	बाएं, दायें, मध्यम, कहीं भी
+When driving in China, people stick to the right hand side.	चीन में ड्राइविंग करते समय लोग दायें हाथ की ओर चिपके रहते हैं।	चीन में ड्राइविंग करते समय लोग <mask> हाथ की ओर चिपके रहते हैं।	बाएं, दायें, मध्यम, कहीं भी
+People usually drive by sticking to the right hand side in China.	लोग आमतौर पर चीन में दायें हाथ की तरफ चिपके हुए ड्राइव करते हैं।	लोग आमतौर पर चीन में <mask> हाथ की तरफ चिपके हुए ड्राइव करते हैं।	बाएं, दायें, मध्यम, कहीं भी
+People stick to the right hand side when driving in China.	चीन में गाड़ी चलाते समय लोग दायें हाथ की ओर चिपके रहते हैं।	चीन में गाड़ी चलाते समय लोग <mask> हाथ की ओर चिपके रहते हैं।	बाएं, दायें, मध्यम, कहीं भी
+The driver's seat of a car is on the left hand side in China.	एक कार की चालक की सीट चीन में बाएं ओर होती है।	एक कार की चालक की सीट चीन में <mask> ओर होती है।	बाएं, दायें, आगे, पीछे
+In China, the driver's seat of a car is located on the left.	चीन में एक कार की चालक की सीट बाएं ओर स्थित होती है।	चीन में एक कार की चालक की सीट <mask> ओर स्थित होती है।	बाएं, दायें, आगे, पीछे
+The driver's seat of a car is on the left in China.	एक कार की चालक की सीट चीन में बाएं ओर होती है।	एक कार की चालक की सीट चीन में <mask> ओर होती है।	बाएं, दायें, आगे, पीछे
+The driver's seat of a car is located on the left in China.	एक कार की चालक की सीट चीन में बाएं ओर स्थित होती है।	एक कार की चालक की सीट चीन में <mask> ओर स्थित होती है।	बाएं, दायें, आगे, पीछे
+The unit of measurement for height is meters in China.	ऊंचाई के लिए माप की इकाई चीन में मीटर है।	ऊंचाई के लिए माप की इकाई चीन में <mask> है।	फीट, इंच, यार्ड, मील, मिलीमीटर, सेंटीमीटर, मीटर, किलोमीटर
+The unit of height is meters in China.	ऊंचाई की इकाई चीन में मीटर है।	ऊंचाई की इकाई चीन में <mask> है।	फीट, इंच, यार्ड, मील, मिलीमीटर, सेंटीमीटर, मीटर, किलोमीटर
+The unit of measurement for height in China is meters.	चीन में ऊंचाई के लिए माप की इकाई मीटर है।	चीन में ऊंचाई के लिए माप की इकाई <mask> है।	फीट, इंच, यार्ड, मील, मिलीमीटर, सेंटीमीटर, मीटर, किलोमीटर
+The unit of height in China is meters.	चीन में ऊंचाई की इकाई मीटर है।	चीन में ऊंचाई की इकाई <mask> है।	फीट, इंच, यार्ड, मील, मिलीमीटर, सेंटीमीटर, मीटर, किलोमीटर
+The unit of measurement of weight in China is kilograms.	चीन में वजन के माप की इकाई किलोग्राम है।	चीन में वजन के माप की इकाई <mask> है।	अउंस, पाउंड, मिलीग्राम, ग्राम, किलोग्राम
+The unit of measurement for weight in China is kilograms.	चीन में वजन के लिए माप की इकाई किलोग्राम है।	चीन में वजन के लिए माप की इकाई <mask> है।	अउंस, पाउंड, मिलीग्राम, ग्राम, किलोग्राम
+The unit of weight in China is kilogram.	चीन में वजन की इकाई किलोग्राम है।	चीन में वजन की इकाई <mask> है।	अउंस, पाउंड, मिलीग्राम, ग्राम, किलोग्राम
+In China, the unit of weight is the kilogram.	चीन में वजन की इकाई किलोग्राम होती है।	चीन में वजन की इकाई <mask> होती है।	अउंस, पाउंड, मिलीग्राम, ग्राम, किलोग्राम
+The temperature measurement unit in China is Celsius.	चीन में तापमान माप की इकाई सेल्सियस है।	चीन में तापमान माप की इकाई <mask> है।	फ़ारेनहाइट, सेल्सीयस, रैंकिन
+The unit for measuring temperature in China is Celsius.	चीन में तापमान मापने के लिए इकाई सेल्सियस है।	चीन में तापमान मापने के लिए इकाई <mask> है।	फ़ारेनहाइट, सेल्सीयस, रैंकिन
+The measuring unit for temperature in China is Celsius.	चीन में तापमान के लिए मापने की इकाई सेल्सियस है।	चीन में तापमान के लिए मापने की इकाई <mask> है।	फ़ारेनहाइट, सेल्सीयस, रैंकिन
+The measuring unit for the temperature is Celsius in China.	तापमान मापने की इकाई चीन में सेल्सियस है।	तापमान मापने की इकाई चीन में <mask> है।	फ़ारेनहाइट, सेल्सीयस, रैंकिन
+The month after the year appears in Chinese date format.	महीना वर्ष के बाद चीनी तिथि प्रारूप में दिखाई देता है।	महीना वर्ष के <mask> चीनी तिथि प्रारूप में दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+In China month after year appears in date format.	महीना वर्ष के बाद चीन में दिनांक प्रारूप में दिखाई देता है।	महीना वर्ष के <mask> चीन में दिनांक प्रारूप में दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+In China the month after the year appears in date format.	चीन में वर्ष महीने के बाद दिनांक प्रारूप में दिखाई देता है।	चीन में वर्ष महीने के <mask> दिनांक प्रारूप में दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+Month appears after year in Chinese date format.	वर्ष के बाद चीनी तिथि प्रारूप में महीना होता है।	वर्ष के <mask> चीनी तिथि प्रारूप में महीना होता है।	पहले, बाद, नीचे, ऊपर
+The year before the month appears in Chinese date format.	महीने से पहले वर्ष चीनी तिथि प्रारूप में दिखाई देता है।	महीने से <mask> वर्ष चीनी तिथि प्रारूप में दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+In China year before month appears in date format.	महीने से पहले चीन में दिनांक प्रारूप में वर्ष दिखाई देता है।	महीने से <mask> चीन में दिनांक प्रारूप में वर्ष दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+In China the year before the month appears in date format.	चीन में महीने से पहले दिनांक प्रारूप में वर्ष दिखाई देता है।	चीन में महीने से <mask> दिनांक प्रारूप में वर्ष दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+Year appears before month in Chinese date format.	महीना से पहले चीनी तिथि प्रारूप में वर्ष दिखाई देता है।	महीना से <mask> चीनी तिथि प्रारूप में वर्ष दिखाई देता है।	पहले, बाद, नीचे, ऊपर
+In China it is rare for customers to tip after a meal.	चीन में भोजन के बाद ग्राहकों का बख्शीश करना दुर्लभ है।	चीन में भोजन के बाद ग्राहकों का बख्शीश करना <mask> है।	आम, दुर्लभ
+In China it is rare for customers to pay tips after a meal.	चीन में भोजन के बाद बख्शीश देना ग्राहकों के लिए दुर्लभ है।	चीन में भोजन के बाद बख्शीश देना ग्राहकों के लिए <mask> है।	आम, दुर्लभ
+In China, it is rare for customers to pay tips after eating.	चीन में खाने के बाद ग्राहकों के लिए बख्शीश देना दुर्लभ है।	चीन में खाने के बाद ग्राहकों के लिए बख्शीश देना <mask> है।	आम, दुर्लभ
+In China it is rare for customers to tip after eating.	चीन में ग्राहकों के लिए खाने के बाद बख्शीश देना दुर्लभ है।	चीन में ग्राहकों के लिए खाने के बाद बख्शीश देना <mask> है।	आम, दुर्लभ
+The Chinese usually take a shower in the evenings.	चीनी आमतौर पर शाम को एक शॉवर लेते हैं।	चीनी आमतौर पर <mask> को एक शॉवर लेते हैं।	सुबह, शाम, दोपहर, शाम
+Chinese people normally shower in the evening.	चीनी लोग आम तौर पर शाम को स्नान करते हैं।	चीनी लोग आम तौर पर <mask> को स्नान करते हैं।	सुबह, शाम, दोपहर, शाम
+Chinese people usually shower in the evening.	चीनी लोग आमतौर पर शाम को स्नान करते हैं।	चीनी लोग आमतौर पर <mask> को स्नान करते हैं।	सुबह, शाम, दोपहर, शाम
+The Chinese usually take a shower in the evening.	चीनी आमतौर पर शाम को स्नान करते हैं।	चीनी आमतौर पर <mask> को स्नान करते हैं।	सुबह, शाम, दोपहर, शाम
+Normally, Chinese dry their wet cloths in the sun.	आम तौर पर चीनी अपने गीले कपड़े सूरज में सुखाते हैं।	आम तौर पर चीनी अपने गीले कपड़े <mask> में सुखाते हैं।	मशीनों, सूरज
+The Chinese dry their wet cloths in the sun.	चीनी सूरज में अपने गीले कपड़े सुखाते हैं।	चीनी <mask> में अपने गीले कपड़े सुखाते हैं।	मशीनों, सूरज
+The Chinese people dry their wet clothes in the sun.	चीनी लोग अपने गीले कपड़े सूरज में सुखाते हैं।	चीनी लोग अपने गीले कपड़े <mask> में सुखाते हैं।	मशीनों, सूरज
+Chinese people usually dry their wet clothes in the sun.	चीनी लोग आमतौर पर अपने गीले कपड़े सूरज में सुखाते हैं।	चीनी लोग आमतौर पर अपने गीले कपड़े <mask> में सुखाते हैं।	मशीनों, सूरज
+In China, it is common for people to clean the floor with brooms.	चीन में लोगों के लिए झाडू के साथ फर्श को साफ करना आम बात है।	चीन में लोगों के लिए झाडू के साथ फर्श को साफ करना <mask> बात है।	आम, दुर्लभ
+In China, it is common to use brooms to clean the floor.	चीन में फर्श को साफ करने के लिए झाडू का उपयोग करना आम है।	चीन में फर्श को साफ करने के लिए झाडू का उपयोग करना <mask> है।	आम, दुर्लभ
+In China it is common for people to use brooms to clean the floor.	चीन में लोगों के लिए फर्श को साफ करने के लिए झाडू का उपयोग करना आम बात है।	चीन में लोगों के लिए फर्श को साफ करने के लिए झाडू का उपयोग करना <mask> बात है।	आम, दुर्लभ
+It is common in China for people to clean the floor with brooms.	चीन में झाडू के साथ फर्श को साफ करना आम है।	चीन में झाडू के साथ फर्श को साफ करना <mask> है।	आम, दुर्लभ
+The staple food in China is rice.	चीन में मुख्य भोजन चावल है।	चीन में मुख्य भोजन <mask> है।	रोटी, चावल, नूडल्स, आलू, मांस, सबजी, फल
+Rice is China's staple food.	चावल चीन का मुख्य भोजन है।	<mask> चीन का मुख्य भोजन है।	रोटी, चावल, नूडल्स, आलू, मांस, सबजी, फल
+The main food in China is rice.	चीन में मुख्य भोजन चावल है।	चीन में मुख्य भोजन <mask> है।	रोटी, चावल, नूडल्स, आलू, मांस, सबजी, फल
+The main staple food in China is rice.	चीन में मुख्य प्रधान भोजन चावल है।	चीन में मुख्य प्रधान भोजन <mask> है।	रोटी, चावल, नूडल्स, आलू, मांस, सबजी, फल
+The Chinese normally eat food with chopsticks.	चीनी आमतौर पर चॉपस्टिक्स के साथ खाना खाते हैं।	चीनी आमतौर पर <mask> के साथ खाना खाते हैं।	चाकू, कांटे, चम्मच, हाथ, चॉपस्टिक
+The Chinese usually eat food with chopsticks.	चीनी आमतौर पर चॉपस्टिक्स से खाना खाते हैं।	चीनी आमतौर पर <mask> से खाना खाते हैं।	चाकू, कांटे, चम्मच, हाथ, चॉपस्टिक
+Chinese usually eat food with chopsticks.	आमतौर पर चीनी चॉपस्टिक्स के साथ खाना खाते हैं।	आमतौर पर चीनी <mask> के साथ खाना खाते हैं।	चाकू, कांटे, चम्मच, हाथ, चॉपस्टिक
+In China, people usually eat food with chopsticks.	चीन में लोग आमतौर पर चॉपस्टिक्स के साथ खाना खाते हैं।	चीन में लोग आमतौर पर <mask> के साथ खाना खाते हैं।	चाकू, कांटे, चम्मच, हाथ, चॉपस्टिक
+In China, it is common for people to share food when they go out to eat.	चीन में लोगों का खाने के लिए बाहर जाने के बाद भोजन साझा करना आम बात है।	चीन में लोगों का खाने के लिए बाहर जाने के बाद भोजन साझा करना <mask> बात है।	आम, दुर्लभ
+In China, it is common for people to share their food when they go to eat.	चीन में लोगों का खाने के लिए बाहर जाने पर भोजन साझा करना आम बात है।	चीन में लोगों का खाने के लिए बाहर जाने पर भोजन साझा करना <mask> बात है।	आम, दुर्लभ
+In China it is common for people to share food when they go out.	चीन में लोगों का बाहर जाने पर भोजन साझा करना आम बात है।	चीन में लोगों का बाहर जाने पर भोजन साझा करना <mask> बात है।	आम, दुर्लभ
+In China, it is customary for people to share food when they go out.	चीन में जब लोग खाने के लिए बाहर जाते हैं तो भोजन साझा करना आम बात है।	चीन में जब लोग खाने के लिए बाहर जाते हैं तो भोजन साझा करना <mask> बात है।	आम, दुर्लभ
+In China, it is common to see that people drink hot water.	चीन में यह देखना आम बात है कि लोग गर्म पानी पीते हैं।	चीन में यह देखना <mask> बात है कि लोग गर्म पानी पीते हैं।	आम, दुर्लभ
+In China, it is common to see people drink hot water.	चीन में, लोगों का गर्म पानी पीना आम बात है।	चीन में, लोगों का गर्म पानी पीना <mask> बात है।	आम, दुर्लभ
+In China, it's common for people to drink hot water.	चीन में, लोगों के लिए गर्म पानी पीना आम बात है।	चीन में, लोगों के लिए गर्म पानी पीना <mask> बात है।	आम, दुर्लभ
+In China, it is common for people to drink hot water.	चीन में लोगों के लिए गर्म पानी पीना आम बात है।	चीन में लोगों के लिए गर्म पानी पीना <mask> बात है।	आम, दुर्लभ
+It is common in China for adults to live with their parents.	वयस्कों के लिए अपने माता-पिता के साथ रहना चीन में यह आम है।	वयस्कों के लिए अपने माता-पिता के साथ रहना चीन में यह <mask> है।	आम, दुर्लभ
+In China, it is common for adults to live together with their parents.	चीन में वयस्कों के लिए अपने माता-पिता के साथ रहना आम बात है।	चीन में वयस्कों के लिए अपने माता-पिता के साथ रहना <mask> बात है।	आम, दुर्लभ
+In China it is common for adults to live with their parents.	वयस्कों के लिए चीन में  अपने माता-पिता के साथ रहना आम बात है।	वयस्कों के लिए चीन में  अपने माता-पिता के साथ रहना <mask> बात है।	आम, दुर्लभ
+In China, it is common for adults to stay with their parents.	वयस्कों के लिए अपने माता-पिता के साथ रहना चीन में आम बात है।	वयस्कों के लिए अपने माता-पिता के साथ रहना चीन में <mask> बात है।	आम, दुर्लभ
+The most popular sport in China is ping-pong.	टेबल टेनिस चीन में सबसे लोकप्रिय खेल है।	<mask> चीन में सबसे लोकप्रिय खेल है।	फ़ुटबॉल, बास्केटबाल, बेसबॉल, टेबल टेनिस, बैडमिंटन, फुटबॉल, वालीबाल, क्रिकेट
+China's most popular sport is table tennis.	चीन का सबसे लोकप्रिय खेल टेबल टेनिस है।	चीन का सबसे लोकप्रिय खेल <mask> है।	फ़ुटबॉल, बास्केटबाल, बेसबॉल, टेबल टेनिस, बैडमिंटन, फुटबॉल, वालीबाल, क्रिकेट
+Table tennis is China's most popular sport.	टेबल टेनिस चीन का सबसे लोकप्रिय खेल है।	<mask> चीन का सबसे लोकप्रिय खेल है।	फ़ुटबॉल, बास्केटबाल, बेसबॉल, टेबल टेनिस, बैडमिंटन, फुटबॉल, वालीबाल, क्रिकेट
+The most popular sport in China is table tennis.	चीन में सबसे लोकप्रिय खेल टेबल टेनिस है।	चीन में सबसे लोकप्रिय खेल <mask> है।	फ़ुटबॉल, बास्केटबाल, बेसबॉल, टेबल टेनिस, बैडमिंटन, फुटबॉल, वालीबाल, क्रिकेट
+In China 30 years ago, the bicycle was the most popular means of transportation in major cities.	चीन में 30 साल पहले साइकिल प्रमुख शहरों में परिवहन का सबसे लोकप्रिय माध्यम था।	चीन में 30 साल पहले <mask> प्रमुख शहरों में परिवहन का सबसे लोकप्रिय माध्यम था।	कार, बस, रेलगाडी, मेट्रो, साइकिल, विमान, जहाज, नाव
+In China 30 years ago, the bicycle was the most popular means of transport in the big cities.	30 साल पहले चीन में साइकिल बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	30 साल पहले चीन में <mask> बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	कार, बस, रेलगाडी, मेट्रो, साइकिल, विमान, जहाज, नाव
+In China 30 years ago, the bicycle was the most popular means of transportation in the big cities.	चीन में 30 साल पहले साइकिल बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	चीन में 30 साल पहले <mask> बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	कार, बस, रेलगाडी, मेट्रो, साइकिल, विमान, जहाज, नाव
+In China 30 years ago, the bicycle was the most popular means of transport in large cities.	30 साल पहले साइकिल चीन के बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	30 साल पहले <mask> चीन के बड़े शहरों में परिवहन का सबसे लोकप्रिय साधन था।	कार, बस, रेलगाडी, मेट्रो, साइकिल, विमान, जहाज, नाव
+It is rare in China to have domestic help.	घरेलू सहायता का प्रयोग चीन में दुर्लभ है।	घरेलू सहायता का प्रयोग चीन में <mask> है।	आम, दुर्लभ
+It is rare to see household servants in China.	चीन में घरेलू नौकर दीखना दुर्लभ है।	चीन में घरेलू नौकर दीखना <mask> है।	आम, दुर्लभ
+It is rare to have domestic help in China.	चीन में घरेलू सहायता का होना दुर्लभ है।	चीन में घरेलू सहायता का होना <mask> है।	आम, दुर्लभ
+Domestic servants are rare in China.	चीन में घरेलू नौकर का होना दुर्लभ हैं।	चीन में घरेलू नौकर का होना <mask> हैं।	आम, दुर्लभ
+Most of China is located in temperate areas.	अधिकांश चीन समशीतोष्ण क्षेत्रों में स्थित है।	अधिकांश चीन <mask> क्षेत्रों में स्थित है।	समशीतोष्ण, उष्णकटिबंधीय, सूखा, महाद्वीपीय, ध्रुवीय
+Most of China is in temperate zones.	अधिकांश चीन समशीतोष्ण क्षेत्रों में है।	अधिकांश चीन <mask> क्षेत्रों में है।	समशीतोष्ण, उष्णकटिबंधीय, सूखा, महाद्वीपीय, ध्रुवीय
+Most of China lies in a temperate zone.	अधिकांश चीन एक समशीतोष्ण क्षेत्र में स्थित है।	अधिकांश चीन एक <mask> क्षेत्र में स्थित है।	समशीतोष्ण, उष्णकटिबंधीय, सूखा, महाद्वीपीय, ध्रुवीय
+Most of China is in temperate areas.	अधिकांश चीन समशीतोष्ण क्षेत्र में है।	अधिकांश चीन <mask> क्षेत्र में है।	समशीतोष्ण, उष्णकटिबंधीय, सूखा, महाद्वीपीय, ध्रुवीय
+In China, the rising share price will be represented by the color red.	चीन में बढ़ते शेयर का मूल्य लाल रंग द्वारा दर्शाया जाएगा।	चीन में बढ़ते शेयर का मूल्य <mask> रंग द्वारा दर्शाया जाएगा।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The rising share price will be represented in China by the color red.	बढ़ती शेयर का मूल्य चीन में लाल रंग से दर्शाया जाएगा।	बढ़ती शेयर का मूल्य चीन में <mask> रंग से दर्शाया जाएगा।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The rising share price is represented in China by the color red.	बढ़ते शेयर का मूल्य चीन में लाल रंग  द्वारा दर्शाया जाता है।	बढ़ते शेयर का मूल्य चीन में <mask> रंग  द्वारा दर्शाया जाता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The increasing share price is represented by the color red in China.	बढ़ते शेयर का मूल्य चीन में लाल रंग से दर्शाया जाता है।	बढ़ते शेयर का मूल्य चीन में <mask> रंग से दर्शाया जाता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The falling share price is represented in China by the color green.	गिरते शेयर का मूल्य चीन में हरे रंग से दर्शाया गया है।	गिरते शेयर का मूल्य चीन में <mask> रंग से दर्शाया गया है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The falling share price in China will be represented by the color green.	चीन में गिरते शेयर का मूल्य हरे रंग से दर्शाया जाएगा।	चीन में गिरते शेयर का मूल्य <mask> रंग से दर्शाया जाएगा।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+The falling share price is represented by the color green in China.	गिरने वाले शेयर का मूल्य चीन में हरे रंग से दर्शाया जाता है।	गिरने वाले शेयर का मूल्य चीन में <mask> रंग से दर्शाया जाता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+In China, the declining share price is represented by the color green.	चीन में गिरते शेयर का मूल्य हरे रंग से दर्शाया जाता है।	चीन में गिरते शेयर का मूल्य <mask> रंग से दर्शाया जाता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+In traditional Chinese weddings, the color of the bridal dress is usually red.	पारंपरिक चीनी शादियों में दुल्हन की पोशाक का रंग आमतौर पर लाल होता है।	पारंपरिक चीनी शादियों में दुल्हन की पोशाक का रंग आमतौर पर <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+In traditional Chinese weddings, the color of the wedding dress is usually red.	पारंपरिक चीनी शादियों में शादी की पोशाक का रंग आमतौर पर लाल होता है।	पारंपरिक चीनी शादियों में शादी की पोशाक का रंग आमतौर पर <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+In traditional Chinese weddings the color of the wedding dress is usually red.	आमतौर पर पारंपरिक चीनी शादियों में दुल्हन की पोशाक का रंग लाल होता है।	आमतौर पर पारंपरिक चीनी शादियों में दुल्हन की पोशाक का रंग <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+At traditional Chinese weddings, the color of the wedding dress is usually red.	आमतौर पर पारंपरिक चीनी शादियों में शादी की पोशाक का रंग लाल होता है।	आमतौर पर पारंपरिक चीनी शादियों में शादी की पोशाक का रंग <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+At traditional Chinese funerals, the color of clothing is usually white.	पारंपरिक चीनी अंतिम संस्कार में कपड़ों का रंग आमतौर पर सफेद होता है।	पारंपरिक चीनी अंतिम संस्कार में कपड़ों का रंग आमतौर पर <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+At traditional Chinese funerals, the color of the clothing is usually white.	आमतौर पर पारंपरिक चीनी अंतिम संस्कार में कपड़ों का रंग सफेद होता है।	आमतौर पर पारंपरिक चीनी अंतिम संस्कार में कपड़ों का रंग <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+At traditional Chinese funerals, the colour of people's clothing is usually white.	पारंपरिक चीनी अंतिम संस्कार में लोगों के कपड़ों का रंग आमतौर पर सफेद होता है।	पारंपरिक चीनी अंतिम संस्कार में लोगों के कपड़ों का रंग आमतौर पर <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+At traditional Chinese funerals, the color of people's clothing is usually white.	आमतौर पर पारंपरिक चीनी अंतिम संस्कार में लोगों के कपड़ों का रंग सफेद होता है।	आमतौर पर पारंपरिक चीनी अंतिम संस्कार में लोगों के कपड़ों का रंग <mask> होता है।	लाल, हरा, पीला, नीला, नारंगी, बैंगनी, काला, सफेद
+In China, wedding ceremony generally lasts less than a day.	चीन में शादी समारोह आमतौर पर एक दिन से भी कम रहता है।	चीन में शादी समारोह आमतौर पर एक दिन से भी <mask> रहता है।	कम, अधिक
+In China, wedding ceremony normally lasts less than a day.	चीन में शादी समारोह सामान्य रूप से एक दिन से भी कम रहता है।	चीन में शादी समारोह सामान्य रूप से एक दिन से भी <mask> रहता है।	कम, अधिक
+In China, wedding ceremony usually lasts less than a day.	चीन में शादी समारोह आमतौर पर एक दिन से भी कम रहता है।	चीन में शादी समारोह आमतौर पर एक दिन से भी <mask> रहता है।	कम, अधिक
+In China, wedding ceremony typically lasts less than one day.	चीन में शादी समारोह आमतौर पर एक दिन से भी कम रहता है।	चीन में शादी समारोह आमतौर पर एक दिन से भी <mask> रहता है।	कम, अधिक

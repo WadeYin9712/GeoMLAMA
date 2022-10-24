@@ -1,0 +1,150 @@
+Prompt	Corresponding Questions	Ans	Candidate Ans	Context	GPT-3 Pred	GPT-3 Pred (T/F/I)	comments
+People usually keep <mask> when driving in United States.	Which side do people usually keep when driving in the United States?	right	right, left, middle, anywhere	keep left/right	The right side	T	
+People usually keep <mask> when driving in China.	Which side do people usually keep when driving in the China?	right	right, left, middle, anywhere	keep left/right	The right side	T	
+People usually keep <mask> when driving in India.	Which side do people usually keep when driving in the India?	left	right, left, middle, anywhere	keep left/right	The left side	T	
+People usually keep <mask> when driving in Iran.	Which side do people usually keep when driving in the Iran?	right	right, left, middle, anywhere	keep left/right	The right side	T	
+People usually keep <mask> when driving in Kenya.	Which side do people usually keep when driving in the Kenya?	left	right, left, middle, anywhere	keep left/right	The left side	T	
+							
+The driver seat of a car is in the <mask> side in United States.	Which side of the car is the driver seat in the Untied States?	left	right, left, front, back	driver seat	The driver's seat is on the right side of the car.	F	
+The driver seat of a car is in the <mask> side in China.	Which side of the car is the driver seat in China?	left	right, left, front, back	driver seat	The right side	F	
+The driver seat of a car is in the <mask> side in India.	Which side of the car is the driver seat in India?	right	right, left, front, back	driver seat	The left side	F	
+The driver seat of a car is in the <mask> side in Iran.	Which side of the car is the driver seat in Iran?	left	right, left, front, back	driver seat	The right side	F	
+The driver seat of a car is in the <mask> side in Kenya.	Which side of the car is the driver seat in Kenya?	right	right, left, front, back	driver seat	The right side	T	
+							
+The unit of measuring height is <mask> in United States.	What is the unit of measuring height in the United States?	feet, inch	feet, inch, yard, mile, millimeter, centimeter, meter, kilometer	measurement unit	foot	1/2	
+The unit of measuring height is <mask> in China.	What is the unit of measuring height in China?	meter, centimeter	feet, inch, yard, mile, millimeter, centimeter, meter, kilometer	measurement unit	"chi" (尺)	F	
+The unit of measuring height is <mask> in India.	What is the unit of measuring height in India?	feet, inch, meter, centimeter	feet, inch, yard, mile, millimeter, centimeter, meter, kilometer	measurement unit	meter	1/4	
+The unit of measuring height is <mask> in Iran.	What is the unit of measuring height in Iran?	meter, centimeter	feet, inch, yard, mile, millimeter, centimeter, meter, kilometer	measurement unit	meter	1/2	
+The unit of measuring height is <mask> in Kenya.	What is the unit of measuring height in Kenya?	feet, inch, meter, centimeter	feet, inch, yard, mile, millimeter, centimeter, meter, kilometer	measurement unit	Meter	1/3	
+							
+The unit of measuring weight is <mask> in United States.	What is the unit of measuring weight in the United States?	pound	ounce, pound, miligram, gram, kilogram	measurement unit	pound	T	
+The unit of measuring weight is <mask> in China.	What is the unit of measuring weight in China?	kilogram	ounce, pound, miligram, gram, kilogram	measurement unit	pound	F	
+The unit of measuring weight is <mask> in India.	What is the unit of measuring weight in India?	kilogram	ounce, pound, miligram, gram, kilogram	measurement unit	Kilogram	T	
+The unit of measuring weight is <mask> in Iran.	What is the unit of measuring weight in Iran?	kilogram	ounce, pound, miligram, gram, kilogram	measurement unit	Kilogram	T	
+The unit of measuring weight is <mask> in Kenya.	What is the unit of measuring weight in Kenya?	kilogram	ounce, pound, miligram, gram, kilogram	measurement unit	Kilogram	T	
+							
+The unit of measuring temperature is <mask> in United States.	What is the unit of measuring temperature in the United States?	Fahrenheit	Fahrenheit, Celsius, Rankine	measurement unit	Fahrenheit	T	
+The unit of measuring temperature is <mask> in China.	What is the unit of measuring temperature in China?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit	Celsius	T	
+The unit of measuring temperature is <mask> in India.	What is the unit of measuring temperature in India?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit	Celsius	T	
+The unit of measuring temperature is <mask> in Iran.	What is the unit of measuring temperature in Iran?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit	Celsius	T	
+The unit of measuring temperature is <mask> in Kenya.	What is the unit of measuring temperature in Kenya?	Celsius	Fahrenheit, Celsius, Rankine	measurement unit	Celsius	T	
+							
+In United States, month appears <mask> year in the date format.	In United States, does the month appear before/after the year in the date format?	before	before, after, below, above	date format	before	T	
+In China, month appears <mask> year in the date format.	In China, does the month appear before/after the year in the date format?	after	before, after, below, above	date format	before	F	
+In India, month appears <mask> year in the date format.	In India, does the month appear before/after the year in the date format?	before	before, after, below, above	date format	before	T	
+In Iran, month appears <mask> year in the date format.	In Iran, does the month appear before/after the year in the date format?	before	before, after, below, above	date format	after	F	
+In Kenya, month appears <mask> year in the date format.	In Kenya, does the month appear before/after the year in the date format?	before	before, after, below, above	date format	After	F	
+							
+In United States, year appears <mask> month in the date format.	In United States, does the year appear before/after the month in the date format?	after	before, after, below, above	date format	after	T	
+In China, year appears <mask> month in the date format.	In China, does the year appear before/after the month in the date format?	before	before, after, below, above	date format	before	T	
+In India, year appears <mask> month in the date format.	In India, does the year appear before/after the month in the date format?	after	before, after, below, above	date format	after	T	
+In Iran, year appears <mask> month in the date format.	In Iran, does the year appear before/after the month in the date format?	after	before, after, below, above	date format	after	T	
+In Kenya, year appears <mask> month in the date format.	In Kenya, does the year appear before/after the month in the date format?	after	before, after, below, above	date format	before	F	
+							
+In United States, it is <mask> that customers will pay tips after the meal.	In United States, is it rare or common that customers pay tips after a meal?	common	rare, common	payment	common	T	
+In China, it is <mask> that customers will pay tips after the meal.	In China, is it rare or common that customers pay tips after a meal?	rare	rare, common	payment	not common	T	
+In India, it is <mask> that customers will pay tips after the meal.	In India, is it rare or common that customers pay tips after a meal?	rare	rare, common	payment	very common	F	
+In Iran, it is <mask> that customers will pay tips after the meal.	In Iran, is it rare or common that customers pay tips after a meal?	rare	rare, common	payment	not common	T	
+In Kenya, it is <mask> that customers will pay tips after the meal.	In Kenya, is it rare or common that customers pay tips after a meal?	rare	rare, common	payment	common	F	
+							
+American people usually take shower in the <mask>.	What time of the day American people usually take the shower?	morning	morning, noon, afternoon, evening	shower time	In the morning	T	
+Chinese people usually take shower in the <mask>.	What time of the day Chinese people usually take the shower?	evening	morning, noon, afternoon, evening	shower time	Before they go to bed.	T	
+Indian people usually take shower in the <mask>.	What time of the day Indian people usually take the shower?	morning	morning, noon, afternoon, evening	shower time	in the morning	T	
+Iranian people usually take shower in the <mask>.	What time of the day Iranian people usually take the shower?	morning	morning, noon, afternoon, evening	shower time	in the morning.	T	
+Kenyan people usually take shower in the <mask>.	What time of the day Kenyan people usually take the shower?	morning	morning, noon, afternoon, evening	shower time	in the morning	T	
+							
+American people dry their wet cloths in the <mask>.	How do American people dry their wet clothes?	machines	machines, sun	drying clothes	American people dry their wet clothes by using a clothes dryer.	T	
+Chinese people dry their wet cloths in the <mask>.	How do Chinese people dry their wet clothes?	sun	machines, sun	drying clothes	Chinese people dry their wet clothes by using a clothes dryer.	F	
+Indian people dry their wet cloths in the <mask>.	How do Indian people dry their wet clothes?	sun	machines, sun	drying clothes	Indian people dry their wet clothes by using a clothes dryer.	F	
+Iranian people dry their wet cloths in the <mask>.	How do Iranian people dry their wet clothes?	sun	machines, sun	drying clothes	Iranian people dry their wet clothes by using a clothes dryer.	F	
+Kenyan people dry their wet cloths in the <mask>.	How do Kenyan people dry their wet clothes?	sun	machines, sun	drying clothes	Kenyan people dry their clothes by hanging them outside	T	
+							
+In United States, it is <mask> that people use broom to clean the floor.	Is it rare or common for people to use broom to clean the floor in the United States?	common	rare, common	broom usage	common	T	
+In China, it is <mask> that people use broom to clean the floor.	Is it rare or common for people to use broom to clean the floor in China?	common	rare, common	broom usage	common	T	
+In India, it is <mask> that people use broom to clean the floor.	Is it rare or common for people to use broom to clean the floor in India?	common	rare, common	broom usage	common	T	
+In Iran, it is <mask> that people use broom to clean the floor.	Is it rare or common for people to use broom to clean the floor in Iran?	rare	rare, common	broom usage	common	F	
+In Kenya, it is <mask> that people use broom to clean the floor.	Is it rare or common for people to use broom to clean the floor in Kenya?	common	rare, common	broom usage	common	T	
+							
+The staple food in United States is <mask>.	What is the staple food in United States?	bread	bread, rice, noodles, potato, meat, vegetable, fruit, maize	food and drink	potatoes	F	
+The staple food in China is <mask>.	What is the staple food in China?	rice, noodles	bread, rice, noodles, potato, meat, vegetable, fruit, maize	food and drink	rice	1/2	
+The staple food in India is <mask>.	What is the staple food in India?	rice, bread	bread, rice, noodles, potato, meat, vegetable, fruit, maize	food and drink	rice	1/2	
+The staple food in Iran is <mask>.	What is the staple food in Iran?	rice, bread	bread, rice, noodles, potato, meat, vegetable, fruit, maize	food and drink	rice	1/2	
+The staple food in Kenya is <mask>.	What is the staple food in Kenya?	vegetable, maize	bread, rice, noodles, potato, meat, vegetable, fruit, maize	food and drink	Maize	1/2	
+							
+American people usually eat food with <mask>.	Which tools do American people usually eat food with?	knife, fork	knife, fork, spoon, hand, chopsticks	food and drink	American people usually eat food with a fork and a knife.	T	
+Chinese people usually eat food with <mask>.	Which tools do Chinese people usually eat food with?	chopsticks	knife, fork, spoon, hand, chopsticks	food and drink	Chinese people usually eat food with a fork and a knife.	F	
+Indian people usually eat food with <mask>.	Which tools do Indian people usually eat food with?	spoon, hand	knife, fork, spoon, hand, chopsticks	food and drink	Indian people usually eat food with a fork and a knife.	F	
+Iranian people usually eat food with <mask>.	Which tools do Iranian people usually eat food with?	spoon, fork	knife, fork, spoon, hand, chopsticks	food and drink	Iranian people usually eat food with a fork and a knife.	1/2	
+Kenyan people usually eat food with <mask>.	Which tools do Kenyan people usually eat food with?	spoon, fork	knife, fork, spoon, hand, chopsticks	food and drink	Kenyan people usually eat food with their hands	F	
+							
+In United States, it is <mask> for people to share their food when they eat out.	In United States, is it rare or common for people to share their food when they eat out?	rare	rare, common	food and drink	multiple people	F	
+In China, it is <mask> for people to share their food when they eat out.	In China, is it rare or common for people to share their food when they eat out?	common	rare, common	food and drink	multiple people	T	
+In India, it is <mask> for people to share their food when they eat out.	In India, is it rare or common for people to share their food when they eat out?	common	rare, common	food and drink	multiple people	T	
+In Iran, it is <mask> for people to share their food when they eat out.	In Iran, is it rare or common for people to share their food when they eat out?	rare	rare, common	food and drink	multiple people	F	
+In Kenya, it is <mask> for people to share their food when they eat out.	In Kenya, is it rare or common for people to share their food when they eat out?	rare	rare, common	food and drink	multiple people	F	
+							
+In United States, it is <mask> to see people drink hot water.	In United States, is it rare or common to see people drink hot water?	rare	rare, common	food and drink	In United States, it is common to see people drink hot water.	F	
+In China, it is <mask> to see people drink hot water.	In China, is it rare or common to see people drink hot water?	common	rare, common	food and drink	In China, it is common to see people drink hot water.	T	
+In India, it is <mask> to see people drink hot water.	In India, is it rare or common to see people drink hot water?	rare	rare, common	food and drink	In India, it is common to see people drink hot water.	F	
+In Iran, it is <mask> to see people drink hot water.	In Iran, is it rare or common to see people drink hot water?	rare	rare, common	food and drink	In Iran, it is common to see people drink hot water.	F	
+In Kenya, it is <mask> to see people drink hot water.	In Kenya, is it rare or common to see people drink hot water?	rare	rare, common	food and drink	In kenya it is rare to see people drink hot water	T	
+							
+In United States, it is <mask> that adults live with their parents.	Is it rare or common for adults to live with their parents in the United States?	rare	rare, common	family	It is common for adults to live with their parents in the United States.	F	
+In China, it is <mask> that adults live with their parents.	Is it rare or common for adults to live with their parents in the China?	common	rare, common	family	It is common for adults to live with their parents in China.	T	
+In India, it is <mask> that adults live with their parents.	Is it rare or common for adults to live with their parents in India?	common	rare, common	family	It is common for adults to live with their parents in India.	T	
+In Iran, it is <mask> that adults live with their parents.	Is it rare or common for adults to live with their parents in Iran?	rare	rare, common	family	It is common for adults to live with their parents in Iran.	F	
+In Kenya, it is <mask> that adults live with their parents.	Is it rare or common for adults to live with their parents in Kenya?	rare	rare, common	family	it is common for adults to live with their parents	F	
+							
+The most popular sports in United States is <mask>.	What are the most popular sports in the United States?	football, basketball, baseball	football, basketball, baseball, table tennis, badminton, soccer, volleyball, cricket, athletics	sports	The most popular sports in the United States are baseball, basketball, and football.	T	
+The most popular sports in China is <mask>.	What are the most popular sports in China?	table tennis, badminton	football, basketball, baseball, table tennis, badminton, soccer, volleyball, cricket, athletics	sports	The most popular sports in China are basketball, table tennis, and badminton.	T	
+The most popular sports in India is <mask>.	What are the most popular sports in India?	cricket, badminton, soccer	football, basketball, baseball, table tennis, badminton, soccer, volleyball, cricket, athletics	sports	The most popular sports in India are cricket, field hockey, and badminton.	2/3	
+The most popular sports in Iran is <mask>.	What are the most popular sports in Iran?	soccer, volleyball	football, basketball, baseball, table tennis, badminton, soccer, volleyball, cricket, athletics	sports	The most popular sports in Iran are soccer, volleyball, and badminton.	T	
+The most popular sports in Kenya is <mask>.	What are the most popular sports in Kenya?	soccer, athletics	football, basketball, baseball, table tennis, badminton, soccer, volleyball, cricket, athletics	sports	The most populr sports in kenya are football and atheltics	1/2	
+							
+In United States, the most popular mode of transportation in big cities 30 years ago was <mask>.	What was the most popular mode of transportation in the big cities of the United States 30 years back?	car	car, bus, train, metro, bicycle, plane, ship, boat	transportation	Horse-drawn carriage	F	
+In China, the most popular mode of transportation in big cities 30 years ago was <mask>.	What was the most popular mode of transportation in the big cities of China 30 years back?	bicycle	car, bus, train, metro, bicycle, plane, ship, boat	transportation	bicycles	T	
+In India, the most popular mode of transportation in big cities 30 years ago was <mask>.	What was the most popular mode of transportation in the big cities of the India 30 years back?	bus, train	car, bus, train, metro, bicycle, plane, ship, boat	transportation	Bullock cart	F	
+In Iran, the most popular mode of transportation in big cities 30 years ago was <mask>.	What was the most popular mode of transportation in the big cities of Iran 30 years back?	car	car, bus, train, metro, bicycle, plane, ship, boat	transportation	bicycles	F	
+In Kenya, the most popular mode of transportation in big cities 30 years ago was <mask>.	What was the most popular mode of transportation in the big cities of Kenya 30 years back?	bus, car	car, bus, train, metro, bicycle, plane, ship, boat	transportation	bus	1/2	
+							
+It is <mask> to have household servants in the United States. 	Is it rare or common for households to have servants in the United States?	rare	common, rare	servant	rare	T	
+It is <mask> to have household servants in China. 	Is it rare or common for households to have servants in China?	rare	common, rare	servant	It's not rare, but it's not common either.	I	
+It is <mask> to have household servants in India. 	Is it rare or common for households to have servants in India?	common	common, rare	servant	common 	T	
+It is <mask> to have household servants in Iran. 	Is it rare or common for households to have servants in Iran?	rare	common, rare	servant	rare	T	
+It is <mask> to have household servants in Kenya. 	Is it rare or common for households to have servants in Kenya?	rare	common, rare	servant	rare	T	
+							
+Most part of United States is in <mask> zone.	Which climate zone does the United States belong to?	temperate	tropical, temperate, dry, continental, polar	climate	temperate	T	
+Most part of China is in <mask> zone.	Which climate zone does China belong to?	temperate	tropical, temperate, dry, continental, polar	climate	Temperate	T	
+Most part of India is in <mask> zone.	Which climate zone does India belong to?	tropical	tropical, temperate, dry, continental, polar	climate	tropical	T	
+Most part of Iran is in <mask> zone.	Which climate zone does Iran belong to?	temperate	tropical, temperate, dry, continental, polar	climate	Mediterranean	T	
+Most part of Kenya is in <mask> zone.	Which climate zone does Kenya belong to?	tropical	tropical, temperate, dry, continental, polar	climate	Tropical 	T	
+							
+The rising stock price will be represented by color <mask> in United States.	Which color represents the rise in the stock prices in America?	green	red, yellow, blue, orange, green, violet, black, white	stock price	red	F	
+The rising stock price will be represented by color <mask> in China.	Which color represents the rise in the stock prices in China?	red	red, yellow, blue, orange, green, violet, black, white	stock price	green	F	
+The rising stock price will be represented by color <mask> in India.	Which color represents the rise in the stock prices in India?	green	red, yellow, blue, orange, green, violet, black, white	stock price	red	F	
+The rising stock price will be represented by color <mask> in Iran.	Which color represents the rise in the stock prices in Iran?	green	red, yellow, blue, orange, green, violet, black, white	stock price	green	T	
+The rising stock price will be represented by color <mask> in Kenya.	Which color represents the rise in the stock prices in Kenya?	green	red, yellow, blue, orange, green, violet, black, white	stock price	green	T	
+							
+The dropping stock price will be represented by color <mask> in United States.	Which color represents the drop in the stock prices in America?	red	red, yellow, blue, orange, green, violet, black, white	stock price	red	T	
+The dropping stock price will be represented by color <mask> in China.	Which color represents the drop in the stock prices in China?	green	red, yellow, blue, orange, green, violet, black, white	stock price	red	F	
+The dropping stock price will be represented by color <mask> in India.	Which color represents the drop in the stock prices in India?	red	red, yellow, blue, orange, green, violet, black, white	stock price	red	T	
+The dropping stock price will be represented by color <mask> in Iran.	Which color represents the drop in the stock prices in Iran?	red	red, yellow, blue, orange, green, violet, black, white	stock price	green 	F	
+The dropping stock price will be represented by color <mask> in Kenya.	Which color represents the drop in the stock prices in Kenya?	red	red, yellow, blue, orange, green, violet, black, white	stock price	red	T	
+							
+In traditional American weddings, the color of wedding dress is usually <mask>.	What is the color of the bridal outfit in an American wedding?	white	red, yellow, blue, orange, green, violet, black, white	wedding	white	T	
+In traditional Chinese weddings, the color of wedding dress is usually <mask>.	What is the color of the bridal outfit in an Chinese wedding?	red	red, yellow, blue, orange, green, violet, black, white	wedding	red	T	
+In traditional Hindu weddings, the color of wedding dress is usually <mask>.	What is the color of the bridal outfit in an Indian wedding?	red	red, yellow, blue, orange, green, violet, black, white	wedding	red	T	
+In traditional Persian weddings, the color of wedding dress is usually <mask>.	What is the color of the bridal outfit in a Persian wedding?	white	red, yellow, blue, orange, green, violet, black, white	wedding	white	T	
+In traditional Kenyan weddings, the color of wedding dress is usually <mask>.	What is the color of the bridal outfit in a Kenyan wedding?	white	red, yellow, blue, orange, green, violet, black, white	wedding	white	T	
+							
+In traditional American funerals, the color of people’s dressing is usually <mask>.	What is the color of the dress that Americans wear in a traditional funerals?	black	red, yellow, blue, orange, green, violet, black, white	funeral	black	T	
+In traditional Chinese funerals, the color of people’s dressing is usually <mask>.	What is the color of the dress that Chinese wear in traditional funerals?	white	red, yellow, blue, orange, green, violet, black, white	funeral	black	F	
+In traditional Indian funerals, the color of people’s dressing is usually <mask>.	What is the color of the dress that Indians wear in traditional funerals?	white	red, yellow, blue, orange, green, violet, black, white	funeral	black 	F	
+In traditional Persian funerals, the color of people’s dressing is usually <mask>.	What is the color of the dress that Persians wear in traditional funerals?	black	red, yellow, blue, orange, green, violet, black, white	funeral	black	T	
+In traditional Kenyan funerals, the color of people’s dressing is usually <mask>.	What is the color of the dress that Kenyans wear in traditional funerals?	black	red, yellow, blue, orange, green, violet, black, white	funeral	black	T	
+							
+In United States, weddings usually last for <mask> than one day.	Does an American wedding ceremony last for more than one day?	less	less, more	wedding	Yes, it can. It is not uncommon for an American wedding to last for three days.	F	
+In China, weddings usually last for <mask> than one day.	Does a Chinese wedding ceremony last for more than one day?	less	less, more	wedding	Yes	F	
+In India, weddings usually last for <mask> than one day.	Does an Indian wedding ceremony last for more than one day?	more	less, more	wedding	Yes	T	
+In Iran, weddings usually last for <mask> than one day.	Does an Iranian wedding ceremony last for more than one day?	less	less, more	wedding	Yes	F	
+In Kenya, weddings usually last for <mask> than one day.	Does a Kenyan wedding ceremony last for more than one day?	less	less, more	wedding	No	T	
